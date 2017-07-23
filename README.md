@@ -26,6 +26,6 @@ That's it. The browser will then rest waiting the user to request another file t
 
 **Q2: Mention and briefly detail in your opinion 3 Websites with a good design and 3 websites that completely missed the mark**
 
-+ [10 TOP PRINCIPLES OF GOOD WEB DESIGN] (https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/)
++ [10 TOP PRINCIPLES OF GOOD WEB DESIGN](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/)
 
-+ [10 TOP PRINCIPLES OF EFFECTIVE WEB DESIGN] (https://shortiedesigns.com/2014/03/10-top-principles-effective-web-design/)
++ [10 TOP PRINCIPLES OF EFFECTIVE WEB DESIGN](https://shortiedesigns.com/2014/03/10-top-principles-effective-web-design/)
