@@ -2,6 +2,8 @@
 ## CSS GRID Tutorial
 ---
 
+![CSS GRID][./CSSGrid.jpg]
+
 Web development in 2017 means we get to experience new coding techniques that are not only exciting but offer better ways to build on for the 21st Century & beyond. While debate still lingers over what lies in store for the future web development *see Quora question [https://www.quora.com/What-is-the-future-of-web-development-in-2017] *, one thing is for sure CSS is growing rapidly and as a web developer it is only prudent to utilize the new capabilities to build even more awesome products.
 
 
@@ -24,9 +26,8 @@ Grid allows us to arrange elements on a page, according to regions created by gu
 + **Grid Area** :The total space surrounded by four grid lines. A grid area may be comprised of any number of grid cells
 
 **Click on the youtube video below to learn more and get started on CSS Grid today**
+[![CSS GRID](./CSSGrid.png)](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
-<iframe width="500" height="500"src="https://www.youtube.com/watch?v=7kVeCqQCxlk"></iframe>
-
-Video courtesy of <a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ" target="_blank">Coding Tech</a>.
+Video courtesy of [Coding Tech] (https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 
