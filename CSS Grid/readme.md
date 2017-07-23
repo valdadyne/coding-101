@@ -24,8 +24,9 @@ Grid allows us to arrange elements on a page, according to regions created by gu
 + **Grid Area** :The total space surrounded by four grid lines. A grid area may be comprised of any number of grid cells
 
 **Click on the youtube video below to learn more and get started on CSS Grid today**
+
 <iframe width="500" height="500"src="https://www.youtube.com/watch?v=7kVeCqQCxlk"></iframe>
 
-Video courtesy of <a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ target="_blank">Coding Tech</a>.
+Video courtesy of <a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ" target="_blank">Coding Tech</a>.
 
 
