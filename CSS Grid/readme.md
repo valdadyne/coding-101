@@ -28,6 +28,6 @@ Grid allows us to arrange elements on a page, according to regions created by gu
 **Click on the youtube video below to learn more and get started on CSS Grid today**
 [![CSS GRID](./CSSGrid.png)](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
-Video courtesy of [Coding Tech] (https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+Video courtesy of [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 
