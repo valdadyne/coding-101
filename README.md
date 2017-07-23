@@ -1,6 +1,6 @@
 # Beginner's Guide to Web Development
 ### HTML + CSS Fundamentals Course
-###### Rodgers M Gitau (2016)
+###### Rodgers M Gitau (2017)
 
 ----
 
