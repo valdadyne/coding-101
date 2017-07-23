@@ -4,7 +4,7 @@
 
 ----
 
-#### Lesson One
+###### Research Questions
 
 **Q1: How do Browsers Work?** 
 [Source](https://www.quora.com/How-does-a-browser-work)
@@ -24,3 +24,4 @@ Some browsers will begin to interpret and render the HTML file immediately and r
 That's it. The browser will then rest waiting the user to request another file to begin everything again.
 
 
+**Q2: Mention and briefly detail in your opinio 3 Websites with a good design and 3 websites that completely missed the mark**
