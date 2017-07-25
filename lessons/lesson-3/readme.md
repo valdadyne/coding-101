@@ -14,11 +14,12 @@ In today's lesson, we attempt to use the most basic table concept to build an co
 **Objectives**
 + Get familiar with:
  <code>
- ```css
+   ```css
     display: table;
     table-layout: fixed;
     display: table-row;
     display: table-cell;
+    ```
  </code>
 
 + Craft an easy but awesome navigation bar for our portfolio page.
