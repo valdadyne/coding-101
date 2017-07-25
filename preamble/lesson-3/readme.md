@@ -24,4 +24,4 @@ In today's lesson, we attempt to use the most basic table concept to build an co
 
 + Craft an easy but awesome navigation bar for our portfolio page.
 
-  ![simple-nav]('./simple-nav.png')
+  ![simple-nav]("./simple-nav.png")
