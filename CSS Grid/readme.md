@@ -1,8 +1,6 @@
 ---
-## CSS GRID Tutorial
+## CSS GRID Tutorial ![CSS GRID](./CSSGrid.jpg)
 ---
-
-![CSS GRID][./CSSGrid.jpg]
 
 Web development in 2017 means we get to experience new coding techniques that are not only exciting but offer better ways to build on for the 21st Century & beyond. While debate still lingers over what lies in store for the future web development [*see Quora question*](https://www.quora.com/What-is-the-future-of-web-development-in-2017), one thing is for sure CSS is growing rapidly and as a web developer it is only prudent to utilize the new capabilities to build even more awesome products.
 
