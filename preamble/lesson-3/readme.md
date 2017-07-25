@@ -6,7 +6,7 @@ Now things are getting a bit more interesting. We have been working on small exa
 
 Well while you'll be pressed to find complex website built entirely using only *HTML* + *CSS*, you could accomplish much with your current skills as is without relying on some complex framework or libraries.
 
-###### <span style="font-weight:bolder;color:crimson">Always try think outside the box.Don't be comfortable with ordinary be extraordinary</span>
+<span style="font-weight:bolder;color:crimson">Always try think outside the box.Don't be comfortable with ordinary be extraordinary</span>
 
 
 In today's lesson, we attempt to use the most basic table concept to build an cool navigation menu.
