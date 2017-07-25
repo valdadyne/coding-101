@@ -4,7 +4,10 @@
 ---
 
 #### Lesson One:
-  - **Topic**:Kenya Presidential Elections 2017
+  - **Topic**:[Kenya Presidential Elections 2017](./lesson-01/)
   
 #### Lesson Two:
-  - **Topic**:Kenya Premier League Table
+  - **Topic**:[Kenya Premier League Table](./lesson-02/) 
+
+#### Lesson Three:
+  - **Topic**:[Portfolio Page Navigation](./lesson-03/)
