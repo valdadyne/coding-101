@@ -13,7 +13,7 @@ In today's lesson, we attempt to use the most basic table concept to build an co
 
 **Objectives**
 + Get familiar with:
- <
+ <code
   {
     display: table;
     table-layout: fixed;
