@@ -6,4 +6,4 @@
 + Wikipedia (https://en.wikipedia.org/wiki/Kenyan_general_election,_2017)
 
 **Finished Look**
-![lesson-101.png](https://github.com/valdadyne/coding-101/blob/master/lesson-1/lesson-101.png "Lesson-101")
+![lesson-101.png](./lesson-101.png)
