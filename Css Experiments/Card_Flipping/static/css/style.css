@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Artifika');
+
+*{
+    margin:0;
+    padding:0;
+}
+.wrapper{
+    perspective: 700;
+}
+.card{
+    position: relative;
+    margin: 1em auto;    
+    background: crimson;
+    height:600px;
+    width:400px;
+    transition: all 0.4s ease;
+    transform-style: preserve-3d;
+}
+.card:hover{
+    transform: rotateY(180deg);
+    background: crimson url('../img/cone.png') no-repeat right bottom;
+}
+.front,.back{
+    position: absolute;
+    top:0;
+    left:0;
+    height:600px;
+    width:400px;
+    color:#fff;
+    backface-visibility: hidden;
+}
+
+.front{    
+    line-height: 600px;
+    text-align: center;
+    font-family: 'Artifika', serif;
+    font-size: 16px;
+}
+.back{
+    margin:5px 0;
+    padding: 3em;
+    line-height: 30px;
+    text-align: right;
+    border-top: 0.1em dotted #fff;
+    font-family: 'Artifika', serif;
+    font-size: 14px;
+    transform: rotateY(180deg); 
+}
